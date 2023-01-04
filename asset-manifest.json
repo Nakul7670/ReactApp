@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Nakul7670/ReactApp/static/css/main.b2ebe302.css",
-    "main.js": "/Nakul7670/ReactApp/static/js/main.0b7f7648.js",
-    "index.html": "/Nakul7670/ReactApp/index.html",
-    "main.b2ebe302.css.map": "/Nakul7670/ReactApp/static/css/main.b2ebe302.css.map",
-    "main.0b7f7648.js.map": "/Nakul7670/ReactApp/static/js/main.0b7f7648.js.map"
+    "main.css": "/ReactApp/static/css/main.b2ebe302.css",
+    "main.js": "/ReactApp/static/js/main.0b7f7648.js",
+    "index.html": "/ReactApp/index.html",
+    "main.b2ebe302.css.map": "/ReactApp/static/css/main.b2ebe302.css.map",
+    "main.0b7f7648.js.map": "/ReactApp/static/js/main.0b7f7648.js.map"
   },
   "entrypoints": [
     "static/css/main.b2ebe302.css",
